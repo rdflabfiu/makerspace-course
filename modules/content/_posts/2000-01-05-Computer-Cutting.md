@@ -1,5 +1,5 @@
 ---
-title: Add a Favicon
+title: Computer Controlled Cutting
 ---
 
 ## Add a Favicon

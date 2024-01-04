@@ -1,5 +1,5 @@
 ---
-title: Required Setup
+title: Sound Machine
 ---
 
 ## Required Setup

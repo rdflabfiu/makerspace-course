@@ -1,5 +1,5 @@
 ---
-title: Choose a Course License
+title: Circuits
 ---
 
 ## Choose a Course License

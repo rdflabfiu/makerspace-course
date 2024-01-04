@@ -1,5 +1,5 @@
 ---
-title: Choose a Course License
+title: Human Interface Devices
 ---
 
 ## Choose a Course License

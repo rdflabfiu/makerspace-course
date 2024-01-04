@@ -1,5 +1,5 @@
 ---
-title: Choose a Course License
+title: Actuators
 ---
 
 ## Choose a Course License

@@ -1,5 +1,5 @@
 ---
-title: Choose a Course License
+title: Microcontrollers
 ---
 
 ## Choose a Course License

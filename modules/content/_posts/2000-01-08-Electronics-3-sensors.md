@@ -1,5 +1,5 @@
 ---
-title: Choose a Course License
+title: Sensors
 ---
 
 ## Choose a Course License

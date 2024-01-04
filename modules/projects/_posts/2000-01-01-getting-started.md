@@ -1,5 +1,5 @@
 ---
-title: Getting Started with GitHub
+title: Desk Lamp
 ---
 
 ## Getting Started with GitHub
