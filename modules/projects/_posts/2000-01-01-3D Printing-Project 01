@@ -38,7 +38,9 @@ title: 3D Printing Project 01 - Print something functional
    - Participants select a functional object from the provided list or propose their own ideas. Try browsing the web or see **Helpful Links** below for more resouces and inspiration. 
 2. **The Design/Modeling:**
    - After you've decided on what to make, start modeling. Remember simple commands such as making solids and moving them in the 3D modeling space. These are the initial fisrt steps. See tutorials page for references.  
-   - Don't forget to take measurments! How large is your object? Length, width, depth? Does it slip between other objects? If so, what tolerances should you allow? What are tolerances?  
+   - Don't forget to take measurments! How large is your object? Length, width, depth? Does it slip between other objects? If so, what tolerances should you allow? What are tolerances? 
+   - Try different approaches. Think of the solution from someone else's point of view. 
+   - When you think you're finished, then it's time to export your model. Go to File, Export, then select the proper format. Files in the **.stl** & **.obj** format usually work great!
 3. **Preparing for Printing:**
    - Open your 3D Printing Software (Prusa), and familarize your self with the [User Interface (UI).](https://help.prusa3d.com/article/ui-overview_1766) 
    - Drag and drop your exported file into Prusa. Or select File> Import> Import STL/...
