@@ -2,11 +2,10 @@
 title: Computer Controlled Cutting
 ---
 
+## Introduction
+
 ## Learning objectives
     - 
-    -
-## Introduction
-Here goes the content for the learning objectives
 
 ## TUTORIALS
   
