@@ -2,7 +2,7 @@
 title: Make Something with Cardboard. 
 ---
 
-## GCardboard challenge
+## Cardboard challenge
 
-https://cardboard-challenge.com/
+Make something functional with [Cardboard!](https://cardboard-challenge.com/)
 
